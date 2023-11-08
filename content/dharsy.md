@@ -5,14 +5,10 @@ Category: People
 Tags: bioinformatics, social sciences
 
 # Dharsy D. Rodriguez Velazquez
+
 ## Contact info:
-e-mail
-
-  - dharsy.rodriguez@upr.edu
-
-LinkedIn
-
- - www.linkedin.com/in/dharsy-rodriguez
+ - e-mail- <dharsy.rodriguez@upr.edu>
+ - LinkedIn-www.linkedin.com/in/dharsy-rodriguez
 
 ## Bio
 
@@ -20,7 +16,7 @@ Social Sciences student-researcher at Computer Sciences Department. IDGeNe stude
 
 ## Research Goals
 
-To combine social sciences, public health (Gentics Epidemiology) with cutting-edge biological research.
+To combine social sciences, public health (Genetics Epidemiology) with cutting-edge biological research.
 
 ## Research Abstract
 
@@ -128,6 +124,7 @@ bt.3192
  -Workshop: Statistics in Biology (ME Pérez-Hernández) 
  -Journal Club: Josue Pérez Santiago
  -Deliverable: Updated Research Summary (w/ Lit review + Methods)
+
 
 
 
