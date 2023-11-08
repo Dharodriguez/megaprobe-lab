@@ -7,8 +7,8 @@ Tags: bioinformatics, social sciences
 # Dharsy D. Rodriguez Velazquez
 
 ## Contact info:
- - e-mail- <dharsy.rodriguez@upr.edu>
- - LinkedIn-www.linkedin.com/in/dharsy-rodriguez
+- e-mail- <dharsy.rodriguez@upr.edu>
+- LinkedIn-www.linkedin.com/in/dharsy-rodriguez
 
 ## Bio
 
@@ -62,6 +62,43 @@ bt.3192
  -Educational Talk: Implicit Bias
  -Techniques and Journal Club- T. Giray
  -Deliverable: One Page Research Summary
+ 
+  /home/drodriguez1
+  wget https://repo.anaconda.com/miniconda/Miniconda3-py311_23.5.2-0-Linux-x86_64.sh
+   at uk.ac.babraham.FastQC.FastQCApplication.main(FastQCApplication.java:338)
+  drodriguez1@hulk:~$ conda create -n fastqc -c bioconda -c conda-forge fastqc
+ See https://ubuntu.com/esm or run: sudo pro status
+ Enable ESM Apps to receive additional future security updates.history
+ To see these additional updates run: apt list --upgradable
+ 3 updates can be applied immediately.
+ Expanded Security Maintenance for Applications is not enabled.
+ Welcome to Ubuntu 22.04.2 LTS (GNU/Linux 5.19.0-46-generic x86_64)
+conda config --set channel_priority strict
+(fastqc) drodriguez1@hulk:~$ conda config --add channels defaults
+
+To activate this environment, use
+  222  #
+  223  #     $ conda activate fastqc
+  224  #
+  225  # To deactivate an active environment, use
+  226  #
+  227  #     $ conda deactivate
+  228  (base) drodriguez1@hulk:~$ fastqc
+  229  Command 'fastqc' not found, but can be installed with:
+  230  apt install fastqc
+  231  Please ask your administrator.
+  232  (base) drodriguez1@hulk:~$ conda activate fastqc
+  233  (fastqc) drodriguez1@hulk:~$ fastqc
+  234  Exception in thread "main" java.awt.HeadlessException:
+  235  No X11 DISPLAY variable was set, but this program performed an operation                                                  which requires it.
+  236          at java.desktop/java.awt.GraphicsEnvironment.checkHeadless(Graphi                                                 csEnvironment.java:208)
+  237          at java.desktop/java.awt.Window.<init>(Window.java:548)
+  238          at java.desktop/java.awt.Frame.<init>(Frame.java:423)
+  239          at java.desktop/java.awt.Frame.<init>(Frame.java:388)
+  240          at java.desktop/javax.swing.JFrame.<init>(JFrame.java:180)
+  241          at uk.ac.babraham.FastQC.FastQCApplication.<init>(FastQCApplicati                                                 on.java:63)
+  242          at uk.ac.babraham.FastQC.FastQCApplication.main(FastQCApplication  
+
   
 ### June 19-24, 2023
  -Educational Talk: Genomics and Society Dr. A. Santiago-Cornier Genomic Medicine
@@ -81,6 +118,45 @@ bt.3192
 ### June 26-30, 2023
  -Laboratory Work: TCGA atlas, GRCh38, review Genetics concepts,GEO data, Array Express data, normal tissue and tumour core, R1_R2_Index, WingSCP, pipeline.
  
+ 
+(base) drodriguez1@hulk:~$ ~ wget-ci~/archivo-2
+ (base) drodriguez1@hulk:~$ wget ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR116/ERR11657684/scrEXT001_hg19_S9_L008_I1_001.fastq.gz    
+  scp boqueron.hpcf.upr.edu:/work/humberto/drodriguez1/align_data.
+  
+(fastqc) drodriguez1@hulk:~$ conda config --add channels defaults
+conda config --add channels bioconda
+conda config --add channels conda-forge
+conda config --set channel_priority strict
+Warning: 'defaults' already in 'channels' list, moving to the top
+(fastqc) drodriguez1@hulk:~$
+Login as: drodriguez1
+drodriguez1@hulk.ccom.uprrp.edu's password:
+Welcome to Ubuntu 22.04.2 LTS (GNU/Linux 5.19.0-46-generic x86_64)
+Expanded Security Maintenance for Applications is not enabled.
+3 updates can be applied immediately.
+To see these additional updates run: apt list --upgradable
+Enable ESM Apps to receive additional future security updates.
+See https://ubuntu.com/esm or run: sudo pro status
+
+(base) drodriguez1@hulk:~$ pwd
+/home/drodriguez1
+(base) drodriguez1@hulk:~$ conda create -n fastqc -c bioconda -c conda-fo                                                 rge fastqc
+Collecting package metadata (current_repodata.json): done
+Solving environment: done
+history
+conda create -n af simpleaf piscem
+conda activate af
+conda deactivate
+screen
+screen -r
+screen -ls
+screen -r
+ls
+scp boqueron.hpcf.upr.edu:/work/humbero/drodriguez1/align_data. 
+scp boqueron.hpcf.upr.edu:/work/humberto/drodriguez1/align_data.
+nano align_data
+
+
 ![boq 1](C:\Users\dhars\OneDrive\Documents\boq 1.png)
  
  -Meet the Mentors: Dr. Imilce Rodríguez Hernández
@@ -103,6 +179,20 @@ bt.3192
  -Deliverable: First Draft Personal Statemen+IDP
  -Journal Club: Carmen Cadilla
  -IQ Hackathon (Engine 4)
+
+screen
+screen -ls
+sreen ls
+screen -r
+screen -d
+conda activate af 
+conda create -n af simpleaf piscem
+conda deactivate
+Solving environment: done
+refdata-gex-GRCh38-2020-A
+Collecting package metadata (current_repodata.json): done
+
+
  
 ### July 10-14
  -Laboratory: Hulk account to work on Rsudio local, Alevin Fry Data (Rscript install), Seurat objetcts tutorial, find the diffrence between normal and tissue core. Download URLs list to match the new table of samples with the columns, identify using rows. Created new directory, we installed miniconda in Hulk. 
@@ -116,6 +206,12 @@ bt.3192
  -Galaxy Workshop “Transcriptomics”
  -Galaxy Workshop “Metagenomics”
  -Journal Club:Dr. Alfredo Ghezzi
+
+(base) drodriguez1@hulk:~/pbmc1k_quant$ ls
+af_map  af_quant  simpleaf_quant_log.json
+(base) drodriguez1@hulk:~/pbmc1k_quant$
+
+nano align_data
 
 ### July 17-21, 2023
  -Meet the Mentors Dr. Josue Pérez Santiago
