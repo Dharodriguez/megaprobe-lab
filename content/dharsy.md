@@ -8,7 +8,7 @@ Tags: bioinformatics, social sciences
 
 ## Contact info:
 - e-mail- <dharsy.rodriguez@upr.edu>
-- LinkedIn-www.linkedin.com/in/dharsy-rodriguez
+- LinkedIn- <www.linkedin.com/in/dharsy-rodriguez>
 
 ## Bio
 
@@ -16,7 +16,7 @@ Social Sciences student-researcher at Computer Sciences Department. IDGeNe stude
 
 ## Research Goals
 
-To combine social sciences, public health (Genetics Epidemiology) with cutting-edge biological research.
+To combine social sciences, public health (Genetics Epidemiology), Sociogenomics in order to ubderstand societal problems.
 
 ## Research Abstract
 
@@ -42,21 +42,21 @@ bt.3192
  -Mentoring: Dr. Adriana Baez
  --Mentor-Mentee_Align_Expectations (WORD)
  -Laboratory Work: We prepared a work plan for the summer:
- -- Cancer data
- -- Binarization
- -- Single cell information
- -- Request account for Boqueron cluster
- -- We discussed the rules of the laboratoy:MegaProbe
+    +Cancer data
+    +Binarization
+    +Single cell information
+    +Request account for Boqueron cluster
+    +We discussed the rules of the laboratoy:MegaProbe
 
 ### June 12-16, 2023
  -Created Github, Anaconda account
- -Workshop: Bioinformatic III
+ +Workshop: Bioinformatic III
  -Educational Talk: Genomics and Society (Dr. Gerardo Arroyo: La Genómica y su impacto en las Ciencias Forenses)
- -Meet the Mentors Dr. Tugrul Giray
- -Workshop: Software Carpentry
- -Educationall Talk: Impostor Syndrome
- -Workshop: Software Carpentry
- -Genomic Seminar:Evolution and development of patterns in butterfly wings
+ +Meet the Mentors Dr. Tugrul Giray
+ +Workshop: Software Carpentry
+ +Educationall Talk: Impostor Syndrome
+ +Workshop: Software Carpentry
+ +Genomic Seminar:Evolution and development of patterns in butterfly wings
  -Workshop:Ethics
  -Movie Night: Justice, Equity, Diversity and Inclusion 
  -Educational Talk: Implicit Bias
